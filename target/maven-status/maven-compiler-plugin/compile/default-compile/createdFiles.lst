@@ -1,0 +1,14 @@
+co\japo\starter\basicapi\course\Course.class
+co\japo\starter\basicapi\course\CourseService.class
+co\japo\starter\basicapi\lesson\LessonService.class
+co\japo\starter\basicapi\topic\Topic.class
+co\japo\starter\basicapi\topic\TopicRepository.class
+co\japo\starter\basicapi\topic\TopicController.class
+co\japo\starter\basicapi\lesson\LessonController.class
+co\japo\starter\basicapi\lesson\Lesson.class
+co\japo\starter\basicapi\App.class
+co\japo\starter\basicapi\lesson\LessonRepository.class
+co\japo\starter\basicapi\course\CourseRepository.class
+co\japo\starter\basicapi\initializer\InitializerController.class
+co\japo\starter\basicapi\course\CourseController.class
+co\japo\starter\basicapi\topic\TopicService.class
